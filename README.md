@@ -52,4 +52,3 @@ From custom e-commerce solutions like **Bagisto** and **NopCommerce** to cutting
 
 ---
 
-![Uzair's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uzairkhan-12&show_icons=true&theme=radical)
