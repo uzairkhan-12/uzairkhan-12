@@ -22,9 +22,10 @@ From custom e-commerce solutions like **Bagisto** and **NopCommerce** to cutting
 
 ### **Mobile**
 - Flutter
+- React Native, Expo
 
 ### **Database**
-- MySQL, SQL Server, MongoDB
+- MySQL, SQL Server, MongoDB, PostgreSQL
 - Prisma ORM, Eloquent ORM
 
 ### **DevOps & Tools**
@@ -33,11 +34,13 @@ From custom e-commerce solutions like **Bagisto** and **NopCommerce** to cutting
 - Git, GitHub Actions
 
 ### **E-Commerce**
+- Custom Ecommerce website using Next js
 - Bagisto
 - NopCommerce
 
 ### **Other Tools**
 - Stripe Integration
+- Paylink
 - Google Maps API
 - WebSockets
 - Redis
